@@ -1,0 +1,8 @@
+.project
+target/*
+.settings/*
+data/*
+drivers/*
+.classpath
+.classpath.classpath
+.project.project
